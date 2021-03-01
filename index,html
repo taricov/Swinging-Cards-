@@ -1,0 +1,27 @@
+<div class='container'>
+  <div class='card'>
+    <div class='content'>
+      <h2>01</h2>
+      <h3>Title</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum nisl augue, and pellentesque metus euismod vel. Maecenas feugiat aroused.</p>
+      <a href="#">Read more</a>
+     </div>
+  </div>
+  <div class='card'>
+    <div class='content'>
+      <h2>02</h2>
+      <h3>Title</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum nisl augue, and pellentesque metus euismod vel. Maecenas feugiat aroused.</p>
+      <a href="#">Read more</a>
+     </div>
+  </div>
+  <div class='card'>
+    <div class='content'>
+      <h2>03</h2>
+      <h3>Title</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum nisl augue, and pellentesque metus euismod vel. Maecenas feugiat aroused.</p>
+      <a href="#">Read more</a>
+     </div>
+  </div>
+  
+</div>  
